@@ -1,7 +1,16 @@
-### Hi there 👋
+### Do you like to code too?? ⌨️
+
+I'm a software engineer (currently working on the dreaded management side of things) but enjoy spending time writing code and learning new things.
+
+- 🌱 I’m currently learning some rust, typescript and more nixos (current daily driver, and loving it)
+- 👯 I’m looking to collaborate on anything that can be exciting!  I don't have much free time, but love to have outlined projects to work on when I end up with some freetime.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikekwright&hide_progress=true&hide=Jupyter%20Notebook,html)
 
 <!--
 **mikekwright/mikekwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Stats from: https://github.com/anuraghazra/github-readme-stats
 
 Here are some ideas to get you started:
 
